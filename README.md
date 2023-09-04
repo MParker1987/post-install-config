@@ -277,3 +277,19 @@ For tickets created via email, the department that the email address is assigned
   **Transient:** SLA can be overridden on ticket transfer or help topic change; if not transient, the SLA will remain the same as it is assigned on ticket creation.
 
   **Ticket Overdue Alerts:** This will DISABLE overdue alert notices to staff for tickets assigned this SLA.
+
+
+
+Help Topics
+===========
+
+**Admin Panel > Manage > Help Topics:**
+
+Create and Assign Help Topics
+-----------------------------
+
+Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket. Create as many Help Topics as needed and can even nest Help Topics within each other for further breakdown (For example, Human Resources and Human Resources/Payroll.)
+
+Help Topics will determine what Department the ticket is routed to which will determine which Agents have access to the ticket. The Help Topic also can determine other configurations of the ticket, such as the ticket’s SLA (or Service Level Agreement) and priority of a ticket, i.e. Emergency to Low.
+
+There are two places where the Help Topic must be selected on New Tickets; the client portal and new tickets created internally by staff. When Users select the Help Topic, they are not aware of the configurations in place for that Help Topic.
