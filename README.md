@@ -99,7 +99,7 @@ Teams
 
 **Admin Panel > Agents > Teams**
 
-<img src="https://www.techrepublic.com/wp-content/uploads/2023/01/osticketagentc-770x311.jpg"/>
+<img src="https://forum.osticket.com/assets/files/migrated/FileUpload/2e/ed9a6350b2d54aa97c582b0acbebb2.png"/>
 
 **How to Create Teams In Your Help Desk**
 
