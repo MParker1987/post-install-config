@@ -245,6 +245,7 @@ SLA Plans
 =========
 
 **Admin Panel > Manage > SLA (Service Level Agreements)**
+<img src="https://docs.osticket.com/en/latest/_images/schedules2.png"/>
 
 Create A New SLA Plan
 ---------------------
