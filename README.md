@@ -118,8 +118,7 @@ Roles
 
 **Admin Panel > Agents > Roles**
 
-.. image:: ../../_static/images/admin_agents_roles.png
-  :alt: Roles Tab
+<img src="https://camo.githubusercontent.com/4085a6be24037532d7773a21c2724bb95b1b9aecc0c87e69ce5b7bfd7801d4f8/68747470733a2f2f692e696d6775722e636f6d2f4a773445624d4e2e706e67"/>
 
 Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles can be created and assigned to Agents with access to various departments.
 
