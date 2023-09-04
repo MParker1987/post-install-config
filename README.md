@@ -99,8 +99,7 @@ Teams
 
 **Admin Panel > Agents > Teams**
 
-.. image:: ../../_static/images/admin_agents_teams.png
-  :alt: Teams Tab
+<img src="https://www.techrepublic.com/wp-content/uploads/2023/01/osticketagentc-770x311.jpg"/>
 
 **How to Create Teams In Your Help Desk**
 
