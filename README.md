@@ -22,7 +22,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Teams
 - Configure Roles
 - Configure Departments
-- Configure Users (customers)
+- Configure User Directory (customers)
 - Configure SLA (service-level agreement)
 - Configure Help Topics
 
