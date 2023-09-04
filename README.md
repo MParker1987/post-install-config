@@ -211,18 +211,3 @@ Since tickets are routed through Departments in the help desk, there are many se
   **Claim on Response:** Check this to **disable** auto-claim on response/reply for this department. Agents can still manually claim unassigned tickets.
 
   **Reopen Auto Assignment:** Check this to disable auto-assignment of reopened tickets for this department. Otherwise, the Ticket will be auto assigned to the last responding Agent.
-
-**Outgoing Email Settings:**
-
-  **Outgoing Email:** Email Address used when responses are sent to Users when Agents post Responses to Tickets.
-
-  **Template Set:** Email **Template Set** used for Auto-Responses and Alerts & Notices for tickets routed to this Department. Template sets can be cloned and edited for department use in the Admin Panel > Emails > Templates.
-
-**Auto Responder Settings:** This allows you to override the global Autoresponder settings for this Department.
-
-  **New Ticket:** If checked, this will disable the New Ticket Auto-Response sent to the User
-  when a new ticket is created and routed to this Department.
-
-  **New Message:** If checked, this will disable the Auto-Response sent to the User to confirm a newly-posted message for tickets in this Department.
-
-  **Auto-Response Email:** Select an email address from which Auto-Responses are sent for this Department; this email would send only auto-response messages, not Agent responses.
