@@ -181,9 +181,7 @@ Departments
 
 **Admin Panel > Agents > Departments**
 
-.. image:: ../../_static/images/admin_agents_departments.png
-  :alt: Departments Tab
-
+<img src="https://docs.osticket.com/en/latest/_images/archives_dept_edit1.png"/>
 Since tickets are routed through Departments in the help desk, there are many settings that can be set for each Department.
 
 **Department Information:**
